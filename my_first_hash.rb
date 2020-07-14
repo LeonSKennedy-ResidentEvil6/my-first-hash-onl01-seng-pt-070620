@@ -1,6 +1,5 @@
 def my_hash
-your_hash = {"god" => "love and wisdom", "ebo" => "a child of god"}
-  
+  your_hash = {"god" => "love and wisdom", "ebo" => "a child of god"}
 end
 
 
